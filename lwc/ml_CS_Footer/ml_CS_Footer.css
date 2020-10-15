@@ -1,0 +1,21 @@
+/* ******************************* */
+/* START : CSS for ml_CS_Footer */
+
+    span { display: block; float: left; height: 5px;}
+    /*.line {
+        //width: 100%;
+    }*/
+    .color-blue{
+        background: #0090DA 0% 0% no-repeat padding-box;opacity: 1;
+		height: 5px;
+    }
+    .color-darkblue{
+        background: #0061A0 0% 0% no-repeat padding-box;opacity: 1;
+		height: 5px;
+    }
+    .color-green{
+        background: #A4CE4E 0% 0% no-repeat padding-box;opacity: 1;
+		height: 5px;
+    }
+/* END : CSS for ml_CS_Footer */
+/* ******************************* */
